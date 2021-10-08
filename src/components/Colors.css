@@ -1,0 +1,7 @@
+
+
+.scrol{
+    background-color: green;
+    width: 100px;
+    overflow-x: scroll;
+}
